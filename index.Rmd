@@ -16,7 +16,7 @@ output:
  
 ## Short Bio
 
-I am a recent graduate of the Political Science Master program at Central European University in Vienna. I am interested in the subjects of armed conflicts, terrorism studies, religion and politics, as well as political methodologies with more than 2 years of experience in related fields. Previously, I held a couple of research assistant positions in academia and interned at national and international think tanks. Throughout these occasions, I gathered experience in conducting literature reviews, preparing and drafting written works, gathering background information, along with cleaning, analyzing, and visualizing data in R and Python. I also occasionally use the MS Excel program for data analysis purposes.
+I aspire to be a social scientist. I am interested in the subjects of armed conflicts, terrorism studies, democratization, religious politics, and political methodologies. Previously, I held a couple of research assistant positions in academia and interned at national and international think tanks. Throughout these occasions, I gathered experience in conducting academic literature reviews, preparing and drafting written works, gathering background information, along with cleaning, analyzing, and visualizing data in R and Python. I also occasionally use the MS Excel program for data analysis purposes.
 
 ## Education
 
@@ -41,6 +41,6 @@ Erasmus Exchange Student | September 2018 - December 2018
 
 **Research Assistant to Prof. Alev Çınar** | September 2019 - December 2019
 
-**Part-time Undergraduate Research Student** | Center for Foreign Policy and Peace Research | February 2019 - May 2019
+**Undergraduate Research Student** | Center for Foreign Policy and Peace Research | February 2019 - May 2019
 
 **Summer Research Assistant** | Issam Fares Institute | June 2018 - August 2018
