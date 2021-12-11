@@ -1,0 +1,46 @@
+---
+title: "Muhammet Ozkaraca"
+image: "photo.png"
+links:
+  - label: Resume
+    url: "https://linkedin.com/"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/muhammet-ozkaraca/"
+  - label: GitHub
+    url: "https://github.com/muhammetozkaraca"
+  - label: Twitter
+    url: "https://twitter.com/muhammetozkrca"
+output:
+  postcards::solana
+---
+ 
+## Short Bio
+
+I am a recent graduate of the Political Science Master program at Central European University in Vienna. I am interested in the subjects of armed conflicts, terrorism studies, religion and politics, as well as political methodologies with more than 2 years of experience in related fields. Previously, I held a couple of research assistant positions in academia and interned at national and international think tanks. Throughout these occasions, I gathered experience in conducting literature reviews, preparing and drafting written works, gathering background information, along with cleaning, analyzing, and visualizing data in R and Python. I also occasionally use the MS Excel program for data analysis purposes.
+
+## Education
+
+**Central European University** | Vienna, Austria
+
+M.A. in Political Science | September 2020 - June 2021
+
+**Bilkent University** | Ankara, Turkey
+
+B.A. in International Relations | September 2015 - June 2020
+
+**Sciences Po** | Paris, France
+
+Erasmus Exchange Student | September 2018 - December 2018
+
+
+## Experience
+
+**Research Assistant** | Istanbul Policy Center | November 2021 - Present
+
+**Research Assistant to Prof. Berk Esen** | June 2019 - September 2020
+
+**Research Assistant to Prof. Alev Çınar** | September 2019 - December 2019
+
+**Part-time Undergraduate Research Student** | Center for Foreign Policy and Peace Research | February 2019 - May 2019
+
+**Summer Research Assistant** | Issam Fares Institute | June 2018 - August 2018
