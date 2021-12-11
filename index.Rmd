@@ -3,7 +3,7 @@ title: "Muhammet Ozkaraca"
 image: "photo.png"
 links:
   - label: Resume
-    url: "https://linkedin.com/"
+    url: "https://muhammetozkaraca.netlify.app/uploads/CV-Academic.pdf"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/muhammet-ozkaraca/"
   - label: GitHub
